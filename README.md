@@ -14,3 +14,17 @@ Sales and inventory data pertain to a fictional chain of toy stores located in M
 
 # Inventory Analysis PowerBi Dashboard
 ![](maven_analysys/InventoryAnalysis.png)
+
+# Insight
+
+## Which product categories drive the biggest profits? Is this the same across store locations?
+### Product Category Profitability:
+
+The analysis indicates that the product category contributing the most to actual profit is Electronics, boasting a significant profit margin of 44.61%. Following closely is the Games category with a substantial contribution of 30.33%. Notably, this trend remains consistent across all locations.
+
+Electronics Profit Margins by Location:
+Airport: 45.78%
+Commercial: 45.33%
+Residential: 45.76%
+Downtown: 43.74%
+This underscores the strong performance of Electronics, particularly in airport locations, where it achieves the highest profit margin.
