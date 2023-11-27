@@ -10,4 +10,4 @@ Sales and inventory data pertain to a fictional chain of toy stores located in M
 4. How much money is tied up in inventory at the toy stores? How long will it last?
 
 # PowerBI Dashboard
-![](MavenToysSalesAnalysis.png)
+![](maven_analysys/MavenToysSalesAnalysis.png)
