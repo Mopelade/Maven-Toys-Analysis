@@ -9,6 +9,9 @@ Sales and inventory data pertain to a fictional chain of toy stores located in M
 3. Are sales being lost with out-of-stock products at certain locations?
 4. How much money is tied up in inventory at the toy stores? How long will it last?
 
+# PowerBI Link
+https://app.powerbi.com/groups/me/reports/ef23c5ee-12ee-4f2e-ade2-280977992499?ctid=c885c364-693e-4f5b-864a-66d177761b89&pbi_source=linkShare&bookmarkGuid=57048b5d-ab4c-4323-9e4e-871a97993fd7
+
 # Sales Analysis PowerBI Dashboard
 ![](maven_analysys/MavenToysSalesAnalysis.png)
 
